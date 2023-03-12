@@ -1,0 +1,8 @@
+C:\Users\nata\Desktop\C#\Pr5M\Pr5M\bin\Debug\Pr5M.exe.config
+C:\Users\nata\Desktop\C#\Pr5M\Pr5M\bin\Debug\Pr5M.exe
+C:\Users\nata\Desktop\C#\Pr5M\Pr5M\bin\Debug\Pr5M.pdb
+C:\Users\nata\Desktop\C#\Pr5M\Pr5M\obj\Debug\Pr5M.csproj.AssemblyReference.cache
+C:\Users\nata\Desktop\C#\Pr5M\Pr5M\obj\Debug\Pr5M.csproj.SuggestedBindingRedirects.cache
+C:\Users\nata\Desktop\C#\Pr5M\Pr5M\obj\Debug\Pr5M.csproj.CoreCompileInputs.cache
+C:\Users\nata\Desktop\C#\Pr5M\Pr5M\obj\Debug\Pr5M.exe
+C:\Users\nata\Desktop\C#\Pr5M\Pr5M\obj\Debug\Pr5M.pdb
